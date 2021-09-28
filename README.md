@@ -1,1 +1,8 @@
-# Citibike_Tableau
+# Overview
+The purpose of this [analysis](https://public.tableau.com/app/profile/ron.holcomb/viz/CitibikeChallenge_16327039798370/StoryChallenge?publish=yes) is to show investors data that proves that they should invest in our bike sharing company. We do this by taking our data and creating many vizualizations that easily tell our story.
+
+# Results
+Based on the visuals from the [analysis](https://public.tableau.com/app/profile/ron.holcomb/viz/CitibikeChallenge_16327039798370/StoryChallenge?publish=yes) we start by showing popular starting areas and which bikes were utilized the most. This will give us an idea that we should open up in areas with lots of tourism and which types of bikes we should have the most of. After this we move to checkout times and checkout times by gender. With this data we can determine hours of operations and have shops in areas with high male population. Trips by weekday shows that we should be open Monday - Friday, while lastly our subscriber vs. customer heatmap shows that we have a great subscriber program and benifits that we can promote.
+
+# Summary
+In conclusion we make a solid case for our investors. We have a lot of solid data that can lead us to success with location, hours of operation, demographic, and even a popular subscriber program that gives the company a secure source of income. 2 visuals that we could include for future analysis would include how long maintenance would take so we can show how long it takes to get a bike up and running. Another would be our actual sales numbers to show how much we get from one time customers and subscribers this will help us show that our business is profitable to investors.
